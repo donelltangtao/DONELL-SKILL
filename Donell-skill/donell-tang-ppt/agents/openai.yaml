@@ -1,0 +1,4 @@
+interface:
+  display_name: "donell_tang"
+  short_description: "将PPT图片高保真还原为关键文字可编辑的PowerPoint"
+  default_prompt: "使用 $donell-tang-ppt 将PPT页面图片高保真还原为可编辑PPTX。"
