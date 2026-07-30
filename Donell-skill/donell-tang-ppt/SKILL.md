@@ -3,7 +3,7 @@ name: donell-tang-ppt
 description: 将PPT图片中的关键文字高保真拆解为PowerPoint原生可编辑文本框，同时保持其他视觉元素为背景。适用于所有类型PPT图片到可编辑PPTX的高保真还原。
 ---
 
-# donell_tang
+# donell_tang_ppt
 
 ## 核心目标
 
